@@ -2,9 +2,8 @@ package firstmod;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class ExampleModClient implements ClientModInitializer {
+public class FirstModClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-
     }
 }

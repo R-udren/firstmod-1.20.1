@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"firstmod.ExampleMod"
+			"firstmod.FirstMod"
 		],
 		"client": [
-			"firstmod.ExampleModClient"
+			"firstmod.FirstModClient"
 		],
 		"fabric-datagen": [
-			"firstmod.ExampleModDataGenerator"
+			"firstmod.FirstModDataGenerator"
 		]
 	},
 	"mixins": [
