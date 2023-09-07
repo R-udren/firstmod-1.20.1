@@ -1,5 +1,9 @@
 {
   "item.firstmod.ruby": "Рубин",
   "item.firstmod.raw_ruby": "Сырой рубин",
+
+  "block.firstmod.ruby_block": "Блок рубина",
+  "block.firstmod.raw_ruby_block": "Блок сырого рубина",
+
   "itemgroup.ruby": "Рубины!"
 }

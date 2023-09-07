@@ -1,5 +1,6 @@
 package firstmod;
 
+import firstmod.block.ModBlocks;
 import firstmod.item.ModItems;
 import firstmod.item.ModItemGroups;
 import net.fabricmc.api.ModInitializer;
@@ -13,6 +14,8 @@ public class FirstMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
